@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Labo02Rodriguez</string>
+    <string name="bmi_text_view">BMI</string>
+    <string name="weight_text_view">Weight</string>
+    <string name="weight_hint">70</string>
+    <string name="parameter_weight_text_view">Kg</string>
+    <string name="height_text_view">height</string>
+    <string name="Height_hint">175</string>
+    <string name="height_parameter_text_view">cm</string>
+    <string name="button_text">Calculate</string>
+</resources>
